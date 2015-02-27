@@ -1,6 +1,6 @@
 {
   "name": "my-eboard",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tech Training",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "jade": "^1.9.1"
+  },
+  "devDependencies": {
+    "bower": "^1.3.12"
   }
 }
